@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/project bai_3/'
+    publicPath: '/project_bai_3/'
   }
